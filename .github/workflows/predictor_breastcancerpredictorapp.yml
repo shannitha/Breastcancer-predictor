@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'breastcancerpredictorapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3588DA4EAF324845B3A37BF7FE9F40DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8344D0F41604F88BE2EF657006B53F9 }}
